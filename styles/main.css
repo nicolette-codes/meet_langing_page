@@ -1,0 +1,21 @@
+:root {
+	--fonty-style: "Red Hat Display", sans-serif;
+
+	--bg-color: hsl(0, 0%, 98%);
+	--primary-color: hsl(192, 37%, 48%);
+	--primary-color-light: hsl(192, 90%, 77%);
+	--accent-color: hsl(267, 34%, 53%);
+	--accent-color-light: hsl(268, 100%, 86%);
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	min-height: 100vh;
+	min-height: 100svh;
+	background-color: var(--bg-color);
+}
