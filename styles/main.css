@@ -101,6 +101,7 @@ h2 {
 	color: var(--font-color-btn);
 	padding: 2rem 4rem;
 	font-weight: var(--font-weight-black);
+	text-wrap: nowrap;
 }
 
 .btn-m-auto {

@@ -24,17 +24,17 @@ Users should be able to:
 ### Screenshot
 
 Mobile
-![](./screenshot.jpg)
+![](./mobile.png)
 
 Tablet
-![](./screenshot.jpg)
+![](./tablet.png)
 
 Desktop
-![](./screenshot.jpg)
+![](./desktop.png)
 
 ### Links
 
--   Live Site URL: [Meet landing page](https://your-live-site-url.com)
+-   Live Site URL: [Meet landing page](https://lucky-mermaid-2d22d0.netlify.app/)
 
 ## My process
 
